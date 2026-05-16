@@ -52,9 +52,9 @@ Gatekeeper actively tracks and maintains intelligence on the following cross-ser
 
 ---
 
-## 🛡️ WHAT IS DTAD?
+## 🛡️ WHAT IS GATEKEEPER?
 
-**DTAD (Discord Threat Actor Database)** is our internal collection of verified malicious Discord IDs. It currently contains **1,750+** entries spanning:
+**GateKeeper (Discord Threat Actor Database)** is our internal collection of verified malicious Discord IDs. It currently contains **1,750+** entries spanning:
 
 - Known raid leaders and coordinators
 - CSAM (Child Sexual Abuse Material) distributors
